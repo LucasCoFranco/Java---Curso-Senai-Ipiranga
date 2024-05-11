@@ -1,0 +1,12 @@
+comando para criar a classe
+public class Inicio{
+    Aqui vai vim o comando abaixo
+}
+
+comando para criar a classe principal
+public static void main(String[]args){
+    e aqui dentro vira os comandos 
+}
+
+Comando para mostrar uma mensagem na tela
+System.out.println("exemplo");
