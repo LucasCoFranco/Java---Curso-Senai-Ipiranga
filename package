@@ -1,0 +1,8 @@
+os pacotes servem para organizar o seu programa
+
+importante
+quando se for usar algum site da internet colocar a url ao contrario
+ex: br.com.nomedosite.www
+
+para nomear os nomes dos pacotes, deve-se escrever tudo em minusculo e se houver espaços entre as palavras, separar por .
+ex: tipos.primitivos
