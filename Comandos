@@ -13,3 +13,19 @@ System.out.println("exemplo");
 
 atalho para escrever o print
 sout
+
+Para comentar o código deve-se usar 
+/*
+*
+*/ (Ctrl Shift / é o atalho)
+
+Para comentar na mesma linha 
+// (Ctrl / é o atalho)
+
+Para colocar documentação 
+/**
+*
+*/
+
+Para deixar uma variavel constante (que não muda) deve-se escrever final na frente da variavel
+final double pi = 3.14;
