@@ -29,3 +29,13 @@ Para colocar documentação
 
 Para deixar uma variavel constante (que não muda) deve-se escrever final na frente da variavel
 final double pi = 3.14;
+
+Para pedir a entrada do usuario (Primeiramente deve-se importar a biblioteca java.util.Scanner)
+Scanner sc = new Scanner(System.in);
+(Boas praticas para criar o Scanner é criar ele comom sc, pois é o que geralmente usam)
+
+Para deixar o programa no padrão de outro pais, deve-se usar o Locale (Deve-se importar a biblioteca java.util.locale)
+Locale.setDefault(Locale.US); //No caso usei o Estados Unidos como exemplo
+A ordem que o locale é colocado no código influencia no resultado do programa (por exemplo, se o Locale é colocado depois do Scanner, toda a entrada do usuario vai negar o padrão do pais selecionado, então deve-se colocar depois do scanner)
+
+
