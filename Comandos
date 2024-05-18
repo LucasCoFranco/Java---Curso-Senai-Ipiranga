@@ -10,3 +10,6 @@ public static void main(String[]args){
 
 Comando para mostrar uma mensagem na tela
 System.out.println("exemplo");
+
+atalho para escrever o print
+sout
