@@ -3,6 +3,9 @@ public class Inicio{
     Aqui vai vim o comando abaixo
 }
 
+Comando para rodar o codigo 
+Shift f10
+
 comando para criar a classe principal
 public static void main(String[]args){
     e aqui dentro vira os comandos 
@@ -29,6 +32,12 @@ Para colocar documentação
 
 Para deixar uma variavel constante (que não muda) deve-se escrever final na frente da variavel
 final double pi = 3.14;
+
+Quando usamos o scanner, ele armazena o ultimo tipo de variavel na memoria dele, então quando você insere um valor inteiro, por exemplo, e depois usar o scanner para pegar uma string, ele vai dar conflito. Então é preciso fazer uma "limpeza", que é depois de usar o scanner para algum tipo de variavel de valores (int, float, double, byte, short, long) colocar o comando
+sc.nextLine();
+
+subString
+Retornará uma nova string que é uma substring desta String
 
 Para pedir a entrada do usuario (Primeiramente deve-se importar a biblioteca java.util.Scanner)
 Scanner sc = new Scanner(System.in);
