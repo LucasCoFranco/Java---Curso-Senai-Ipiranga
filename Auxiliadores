@@ -1,0 +1,12 @@
+Os exemplos utilizados aqui foram testados em um for(int i=0; i<10;i++)
+Um auxiliador conhecido para quebrar o laço de repetição é o break
+ex: if(y == -16){
+break;
+}
+O laço de repetição irá ser quebrado
+
+Um auxiliador que serve para continuar o laço de repetição e ignorar a condição é o continue
+ex: if(y == -16){
+continue;
+}
+O programa ignorará o -16 e continuará o laço de repetição
