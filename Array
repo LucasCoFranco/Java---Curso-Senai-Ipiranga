@@ -1,0 +1,9 @@
+Tamanho fixo
+não é possivel criar um array com mais de um tipo ex: numero e string
+Se você quiser colocar numero com string, será necessário colocar o numero como string
+
+Para fazer um for com o array, basta criar desta maneira
+for(int i = 0; i < alunos.length; i++){
+            System.out.println(alunos[i]);
+        }
+o alunos.lenght se ajusta ao tamanho do array, para não ficar mudando constantemente de acordo com as mudanças da array.
