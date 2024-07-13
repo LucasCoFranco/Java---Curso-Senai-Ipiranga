@@ -13,3 +13,6 @@ for (String aluno: alunos){
             System.out.println(aluno);
         }
 Ele é mais recomendado em situações que usam o array.
+
+o Array é interessante pois na forma de armazenamento, se voce fosse armazenar 5 dados separados, como por exemplo um double, voce ocuparia 320 bytes
+ja o Array ocuparia somente 64 bytes, que é um espaço de double
