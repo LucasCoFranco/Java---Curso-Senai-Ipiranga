@@ -21,3 +21,7 @@ ja o Array ocuparia somente 64 bytes, que é um espaço de double
 Uma propriedade para preencher um array com todas as informações iguais é o Arrays.fill(necessario importar, então aperta o tab para importar automaticamente)
 ex para preencher o array com notas 9,9
 Arrays.fill(notas, 9.9);
+
+================================================================================================
+Arrays para ordenar as informações do array em ordem alfabetica
+Arrays.sort(alunos); (bubble Sort)
