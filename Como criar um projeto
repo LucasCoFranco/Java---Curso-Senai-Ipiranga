@@ -1,0 +1,8 @@
+No Intellij, ir no hamburguer e clicar em new e projeto
+escrever o nome do projeto ex: "aula-array"
+na location selecionar a pasta que será armazenada
+selecionar Maven como build system
+e em advanced setting escrever o groupid ex "estudo.senai"
+clicar em create
+agora no intellij clicar em src, main, java, estudo.senai e main
+este é o projeto
