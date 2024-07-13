@@ -48,3 +48,5 @@ Locale.setDefault(Locale.US); //No caso usei o Estados Unidos como exemplo
 A ordem que o locale é colocado no código influencia no resultado do programa (por exemplo, se o Locale é colocado depois do Scanner, toda a entrada do usuario vai negar o padrão do pais selecionado, então deve-se colocar depois do scanner)
 
 
+Comando para ver os atalhos do intellij 
+Ctrl j
